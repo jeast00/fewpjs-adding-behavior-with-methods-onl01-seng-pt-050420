@@ -27,7 +27,7 @@ class Bird {
     this.sex = sex;
   }
   
-  if(this.sex == 'male') 
+  if(this.sex == 'male') {
 }
 
 
